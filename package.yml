@@ -1,0 +1,22 @@
+name       : cawbird
+version    : 1.0.2
+release    : 1
+source     :
+    - https://github.com/IBBoard/cawbird/archive/v1.0.2.tar.gz : c0194f00af1000515a445b1a85b8253a2aeeddcf0503050fa3b85eb1ad2dd4a3
+license    : GPL-3.0-or-later
+component  : network.clients
+summary    : GTK Twitter client
+description: |
+    A fork of the Corebird GTK Twitter client that continues to work with Twitter
+builddeps  :
+    - pkgconfig(gspell-1)
+    - pkgconfig(gstreamer-video-1.0)
+    - pkgconfig(json-glib-1.0)
+    - pkgconfig(libsoup-2.4)
+    - vala
+setup      : |
+    %meson_configure
+build      : |
+    %ninja_build
+install    : |
+    %ninja_install
