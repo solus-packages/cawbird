@@ -2,8 +2,8 @@
     <Source>
         <Name>cawbird</Name>
         <Packager>
-            <Name>Algent Albrahimi</Name>
-            <Email>algent@protonmail.com</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@stroblindustries.com</Email>
         </Packager>
         <License>GPL-3.0-or-later</License>
         <PartOf>network.clients</PartOf>
@@ -71,12 +71,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="1">
-            <Date>2019-10-05</Date>
+        <Update release="2">
+            <Date>2019-10-11</Date>
             <Version>1.0.2</Version>
             <Comment>Packaging update</Comment>
-            <Name>Algent Albrahimi</Name>
-            <Email>algent@protonmail.com</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@stroblindustries.com</Email>
         </Update>
     </History>
 </PISI>
