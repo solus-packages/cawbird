@@ -1,8 +1,9 @@
 name       : cawbird
-version    : 1.0.3.1
-release    : 3
+version    : 1.0.4
+release    : 4
 source     :
-    - https://github.com/IBBoard/cawbird/archive/v1.0.3.1.tar.gz : 674fc8550fb978ee5dcff250fa5e81d1017d20d0a7f9a39d557bff3a6aec9b0a
+    - https://github.com/IBBoard/cawbird/archive/v1.0.4.tar.gz : f32f074dce371dbffcaa2913bcc72780c3a21819ef8d3479df732f68c05ef9e4
+homepage   : https://ibboard.co.uk/cawbird/
 license    : GPL-3.0-or-later
 component  : network.clients
 summary    : GTK Twitter client
