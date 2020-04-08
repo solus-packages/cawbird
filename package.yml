@@ -1,8 +1,8 @@
 name       : cawbird
-version    : 1.0.4
-release    : 4
+version    : 1.0.5
+release    : 5
 source     :
-    - https://github.com/IBBoard/cawbird/archive/v1.0.4.tar.gz : f32f074dce371dbffcaa2913bcc72780c3a21819ef8d3479df732f68c05ef9e4
+    - https://github.com/IBBoard/cawbird/archive/v1.0.5.tar.gz : bdbb9baa4e2555e20bc46dc37c9627842fe1b53bd0d70520f9ab5636024204dc
 homepage   : https://ibboard.co.uk/cawbird/
 license    : GPL-3.0-or-later
 component  : network.clients
