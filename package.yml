@@ -1,8 +1,8 @@
 name       : cawbird
-version    : 1.2.0
-release    : 7
+version    : 1.2.1
+release    : 8
 source     :
-    - https://github.com/IBBoard/cawbird/archive/v1.2.0.tar.gz : a6ffcfa80ba975ee1d94314935831b1af38815ca849b470dcf7e7b816138b937
+    - https://github.com/IBBoard/cawbird/archive/v1.2.1.tar.gz : 38f6a64a92af0e1337c23c285b41167986cb9344cdd6e04b7decd6ce8362bc58
 homepage   : https://ibboard.co.uk/cawbird/
 license    : GPL-3.0-or-later
 component  : network.clients
@@ -16,7 +16,6 @@ builddeps  :
     - pkgconfig(rest-0.7)
     - vala
 setup      : |
-    %patch -p1 < $pkgfiles/Fix-unescaped-pointy-brackets-in-XML.patch
     %meson_configure
 build      : |
     %ninja_build
