@@ -173,7 +173,6 @@ libgio-2.0.so.0:g_notification_new
 libgio-2.0.so.0:g_notification_set_body
 libgio-2.0.so.0:g_notification_set_default_action_and_target_value
 libgio-2.0.so.0:g_output_stream_splice
-libgio-2.0.so.0:g_resources_get_info
 libgio-2.0.so.0:g_resources_lookup_data
 libgio-2.0.so.0:g_settings_bind
 libgio-2.0.so.0:g_settings_get_boolean
@@ -234,7 +233,6 @@ libglib-2.0.so.0:g_bytes_get_data
 libglib-2.0.so.0:g_bytes_get_size
 libglib-2.0.so.0:g_bytes_unref
 libglib-2.0.so.0:g_clear_error
-libglib-2.0.so.0:g_compute_checksum_for_bytes
 libglib-2.0.so.0:g_date_time_add_minutes
 libglib-2.0.so.0:g_date_time_difference
 libglib-2.0.so.0:g_date_time_format
@@ -645,6 +643,7 @@ libgtk-3.so.0:gtk_gesture_single_get_type
 libgtk-3.so.0:gtk_gesture_single_set_button
 libgtk-3.so.0:gtk_gesture_single_set_exclusive
 libgtk-3.so.0:gtk_get_current_event_time
+libgtk-3.so.0:gtk_get_default_language
 libgtk-3.so.0:gtk_grid_attach
 libgtk-3.so.0:gtk_grid_new
 libgtk-3.so.0:gtk_header_bar_new
