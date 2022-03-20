@@ -176,6 +176,7 @@ libgio-2.0.so.0:g_output_stream_splice
 libgio-2.0.so.0:g_resources_lookup_data
 libgio-2.0.so.0:g_settings_bind
 libgio-2.0.so.0:g_settings_get_boolean
+libgio-2.0.so.0:g_settings_get_default_value
 libgio-2.0.so.0:g_settings_get_enum
 libgio-2.0.so.0:g_settings_get_string
 libgio-2.0.so.0:g_settings_get_strv
@@ -183,6 +184,9 @@ libgio-2.0.so.0:g_settings_get_type
 libgio-2.0.so.0:g_settings_get_uint
 libgio-2.0.so.0:g_settings_get_value
 libgio-2.0.so.0:g_settings_new
+libgio-2.0.so.0:g_settings_new_with_path
+libgio-2.0.so.0:g_settings_reset
+libgio-2.0.so.0:g_settings_schema_list_keys
 libgio-2.0.so.0:g_settings_schema_source_get_default
 libgio-2.0.so.0:g_settings_schema_source_lookup
 libgio-2.0.so.0:g_settings_schema_unref
@@ -402,6 +406,7 @@ libglib-2.0.so.0:g_variant_get_int64
 libglib-2.0.so.0:g_variant_is_of_type
 libglib-2.0.so.0:g_variant_iter_free
 libglib-2.0.so.0:g_variant_iter_init
+libglib-2.0.so.0:g_variant_iter_n_children
 libglib-2.0.so.0:g_variant_iter_new
 libglib-2.0.so.0:g_variant_iter_next
 libglib-2.0.so.0:g_variant_iter_next_value
