@@ -1,6 +1,6 @@
 name       : cawbird
 version    : '1.5'
-release    : 14
+release    : 15
 source     :
     - https://github.com/IBBoard/cawbird/archive/refs/tags/v1.5.tar.gz : 0ef472cbecd6a7eb384a5b27833612d61eba7ace22293dbe14571b887b61ecae
 homepage   : https://ibboard.co.uk/cawbird/

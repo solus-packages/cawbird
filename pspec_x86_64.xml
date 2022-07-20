@@ -3,8 +3,8 @@
         <Name>cawbird</Name>
         <Homepage>https://ibboard.co.uk/cawbird/</Homepage>
         <Packager>
-            <Name>Algent Albrahimi</Name>
-            <Email>algent@protonmail.com</Email>
+            <Name>Zach Bacon</Name>
+            <Email>zachbacon@vba-m.com</Email>
         </Packager>
         <License>GPL-3.0-or-later</License>
         <PartOf>network.clients</PartOf>
@@ -75,12 +75,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="14">
-            <Date>2022-03-20</Date>
+        <Update release="15">
+            <Date>2022-07-20</Date>
             <Version>1.5</Version>
             <Comment>Packaging update</Comment>
-            <Name>Algent Albrahimi</Name>
-            <Email>algent@protonmail.com</Email>
+            <Name>Zach Bacon</Name>
+            <Email>zachbacon@vba-m.com</Email>
         </Update>
     </History>
 </PISI>
